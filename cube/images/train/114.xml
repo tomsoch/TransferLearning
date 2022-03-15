@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>114.jpg</filename>
+	<path>D:\POLITECHNIKA\INZYNIERKA\transferLearning\rubik_cube\raw\114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>111</ymin>
+			<xmax>196</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>
